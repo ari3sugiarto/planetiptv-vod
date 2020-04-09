@@ -1,82 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://cf.shopee.co.id/file/f2ce41fdf5a8a32b73066cf48777984d" group-title="SPORTS", Mola Sport Free
-https;//cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://seeklogo.com/images/U/ufc-tv-logo-FAC9E3D4D8-seeklogo.com.png" group-title="SPORTS", UFC TB
-http://78.141.211.61:4000/8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport" tvg-logo="https://lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu" group-title="SPORTS", Bein Connect
-http://198.147.24.66:25461/live/skydbnew/bfHcm8THgk/212.m3u8?token=HhBZURFYRgkQUwQEUw0ADlsAA1AOXAEMXg1SAwYHUFAAVwMEUwdTAAcQHUMVTBFcWFxoCl1HDQpXChxAQkcDQTpbVRJYElcDEB4TFQ9VBhsDARtBSQxTGlwaAVIPBlARSRBUSBZVFl1TXm4FA04KWlwTDQ1MCVsURFdePVNRC1ILVhMKQAFGHxBbQhFEAg1MVV0bQVsMQ0oHTFVADRZTBlcLExxAUwtGXEZDGEQCQWxqExtBXB1DXQhLWQ1ZFlwRCAFECEAcRlpBbUMEFUwRXFhcUhEbXxUIRBQSD1ZMOVAKXF9VAUQNXFxBE1tECEEVG1xYDVARWEo5SFkGFQ5EBlIACBIf
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F9999387%2F300x300.png%3Ftype%3Dcolor_onBlack&imgrefurl=https%3A%2F%2Fwww.xumo.tv%2Fon-now%2F9999387%2Fbein-sports-xtra%3Ffilter%3D67&tbnid=EwHpArw11TWSAM&vet=12ahUKEwjG2cji6u_nAhWKIysKHWM0Dk8QMyg0egQIARBw..i&docid=MkxayNKghHo_XM&w=300&h=300&itg=1&q=bein%20sport%20xtra%20png&ved=2ahUKEwjG2cji6u_nAhWKIysKHWM0Dk8QMyg0egQIARBw" group-title="SPORTS", Bein Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="SPORTS",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="SPORTS",Sony Ten 1
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="SPORTS",Sony Ten 2
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="SPORTS",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="SPORTS",Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="SPORTS", Sky Sports Mix
-https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports EPL" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="SPORTS", Sky Sports EPL
-https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="SPORTS", Sky Sports Main Event
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS", Sky Sports F1
-https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS", Sky Sports Arena
-https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS", Sky Sports Action
-https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="SPORTS", Sky Sports Football
-https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="SPORTS",Sky Sports Golf
-https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports HD" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="SPORTS", Skynet Sports HD
-https://www.doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1" tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORTS", Skynet Sports 1
-https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 2" tvg-logo="https://i.pinimg.com/originals/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.png" group-title="SPORTS", Skynet Sports 2
-https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 3" tvg-logo="https://i.pinimg.com/originals/60/d6/d0/60d6d0094336d45d0396350f2648559a.png" group-title="SPORTS", Skynet Sports 3
-https://www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 4" tvg-logo="https://i.pinimg.com/originals/18/94/77/1894773124c59b327ad34a7a795b2a18.png" group-title="SPORTS", Skynet Sports 4
-https://www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 5" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORTS", Skynet Sports 5
-https://www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 6" tvg-logo="https://i.pinimg.com/originals/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.png" group-title="SPORTS", Skynet Sports 6
-https://www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="SPORTS", True Premier Football 1
-http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="SPORTS", True Premier Football 2
-http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 3" tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png" group-title="SPORTS", True Premier Football 3
-http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 4" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS", True Premier Football 4
-http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier 5" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="SPORTS", True Premier Football 5
-\http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",True Sport 1
-https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="SPORTS",True Sport 2
-https://www.doofree88.com/streaming/hd-tsport2_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1072.png" group-title="SPORTS",True Sport 3
-https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1073.png" group-title="SPORTS",True Sport 4
-https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesport5.png" group-title="SPORTS",True Sport 5
-http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_075.png&w=355&h=200" group-title="SPORTS",True Sport 6
-http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/tsp7.jpg" group-title="SPORTS",True Sport 7
-http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BT Sports 1
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sports 2
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rmflsMjk4lxx2foNUtd1OKWv6vB.jpg" group-title="Movie On-Demand: 2020",The Hunt (2020)
 https://bit.ly/39EAZ5i
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/4000/1*qBDaOlhmfJMjiTa0UlF2eA.jpeg" group-title="Movie On-Demand: 2020",The Banker (2020)
@@ -170,7 +92,7 @@ https://bitball.b-cdn.net/movies/03-03-2020/03-23-2020/Surat.dari.Kematian.2020.
 #EXTINF:-1 tvg-logo="https://img.tek.id/img/content/2019/09/02/19983/gundala-superhero-lokal-yang-tampil-apik-1iyTImFzMO.jpg" group-title="1 - Film Indonesia",Gundala (2019)
 http://www.supercartube.com/media/videos/h264/999_720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VfJznE0.jpg" group-title="1 - Film Indonesia" description="Drama | 107 Menit |  4 teman telah bersama sejak sekolah menengah. Dan sekarang-- ketika salah satu dari mereka akan menikah-- mereka bertiga harus mengakui perasaan mereka sebelum terlambat.",Belok Kanan Barcelona (2018)
-https://gdrivecdn.us/drive/index.php?id=ErhUauo0y%2FOEIkWyfmqREAynxttw35TzD6ZlH7mgDBqBAl2ct%2ByrWxK9Ed3bCf66f8v4WnT%2BAsN2%2FELEkKRvBpXTWR3X%2BBu755r%2B5ZxIlwsm1XW2HP3p6A5HbJeuaPuJk%3D&ref=&res=720
+https://www.dropbox.com/s/fou0m03m4mn1cay/planet%20iptv%20Belok%20Kanan%20Barcelona%20%282018%29.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 - Film Indonesia",Cinta Itu Buta
 https://www.dropbox.com/s/dweai83t35wnzkv/Cinta.Itu.Buta.2019.WEB-DL.720p.-PusatFilm21.com.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 - Film Indonesia",Dua Garis Biru
@@ -546,7 +468,7 @@ https://www.dropbox.com/s/ho62uoszg72hpdj/Black%20Hawk%20Down%28720p%29.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4fH2HVNWC062pqtKgbLSUMsw8Sq.jpg" group-title="Movie On-Demand: B" description="Action | War | IMDb: 7.6 | 145 Menit | 1999, Serbia dibom dan wilayah Kosovo dibiarkan dijarah oleh bandit di bawah komando panglima perang Albania, Smuk. Pengambilan organ manusia terjadi di dalam wilayah yang telah direbut bandit, perampokan, pembunuhan massal, dan genosida. Petugas intelijen Rusia Bek Ethoev dan mantan penerjun payung menjadi tentara bayaran Andrey Shatalov memimpin detasemen kecil yang ditugaskan dengan misi berbahaya untuk menghentikan terorisme, merebut kembali lapangan terbang yang digunakan oleh bandit dan menyelamatkan bunga cinta Shatalov, Yasna, yang ditangkap untuk diambil organnya, seperti sisa tahanan Serbia.",Balkan Line (2019)
 https://cdn.clonefile.icu/drive/index.php?id=gC0aulujsZZ9Um3zC8M5Cg67%2FcNJkbdg2ttgjlh1qRhrbPzbc033ecYxKqVXTVasAVzV6OqqW%2BPGn%2F2MjvnKy%2Fe2SD1LFZ11Xcyr%2FoV%2FHm61HtfZSBvWwJ5lGNedKcm9k%3D&ref=&res=720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VfJznE0.jpg" group-title="Movie On-Demand: B" description="Drama | 107 Menit |  4 teman telah bersama sejak sekolah menengah. Dan sekarang-- ketika salah satu dari mereka akan menikah-- mereka bertiga harus mengakui perasaan mereka sebelum terlambat.",Belok Kanan Barcelona (2018)
-https://gdrivecdn.us/drive/index.php?id=ErhUauo0y%2FOEIkWyfmqREAynxttw35TzD6ZlH7mgDBqBAl2ct%2ByrWxK9Ed3bCf66f8v4WnT%2BAsN2%2FELEkKRvBpXTWR3X%2BBu755r%2B5ZxIlwsm1XW2HP3p6A5HbJeuaPuJk%3D&ref=&res=720
+https://www.dropbox.com/s/fou0m03m4mn1cay/planet%20iptv%20Belok%20Kanan%20Barcelona%20%282018%29.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8swIHd.jpg" group-title="Movie On-Demand: B" description="Biography | Drama | Family | 6.5 | 107 Menit | Berdasarkan kisah nyata inspiratif-- seorang reporter-kota kecil news (Krasinski) dan relawan Greenpeace (Barrymore) meminta bantuan dari negara adidaya saingan untuk menyelamatkan tiga paus abu-abu yang megah terperangkap di bawah es Antartika. 'Big Keajaiban' diadaptasi dari buku nonfiksi 'Membebaskan Paus: Bagaimana Media Dibuat Dunia Greatest Non-acara' oleh Tom Rose.",Big Miracle (2012)
 https://gdrivecdn.us/drive/index.php?id=yiff1NnsIObdQXzaMRAu2wYNiOOllJ%2B%2FmhREcDio0dRhOz57lFAG6mtjYm9ymLAv%2FmgYI9HNRz%2B1cbBKqwxM9qYL4%2BwbRByoScgogUTBjJfA%3D%3D&ref=&res=720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kv0hH22.jpg" group-title="Movie On-Demand: B" description="Action | Adventure | Sci-Fi |  7.9 | T’Challa-- the King of Wakanda-- rises to the throne in the isolated-- technologically advanced African nation-- but his claim is challenged by a vengeful outsider who was a childhood victim of T’Challa’s father’s mistake.",Black Panther (2018)
